@@ -1,8 +1,8 @@
-<div align="center">
-
 # ✍️ 公众号 AI 全自动写作
 
 > 输入选题 → AI 搜素材 → AI 写正文 → AI 生成标题 → AI 排版 → 一键推送微信草稿箱
+
+<div align="center">
 
 <img src="assets/logo.png" width="200" alt="公众号 AI 全自动写作">
 
