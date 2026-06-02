@@ -2,16 +2,16 @@
 
 > 即装即用 · 输入选题 → AI 搜素材 → AI 写正文 → AI 生成标题 → AI 排版 → 一键推送微信草稿箱
 
-<div align="center">
+<p align="center">
+  <img src="assets/logo.png" width="200" alt="公众号 AI 全自动写作">
+</p>
 
-<img src="assets/logo.png" width="200" alt="公众号 AI 全自动写作">
-
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://python.org)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?logo=openai&logoColor=white)](https://openai.com)
-[![WeChat](https://img.shields.io/badge/WeChat-公众号-07C160?logo=wechat&logoColor=white)](https://mp.weixin.qq.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-</div>
+<p align="center">
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?logo=openai&logoColor=white" alt="OpenAI"></a>
+  <a href="https://mp.weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-公众号-07C160?logo=wechat&logoColor=white" alt="WeChat"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+</p>
 
 ## 一句话流程
 
