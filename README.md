@@ -1,8 +1,17 @@
-# 公众号 AI 全自动写作 Skill
+<div align="center">
 
-一个端到端的微信公众号自动化写作工作流，从选题到推送草稿箱，全程 AI 驱动。
+# ✍️ 公众号 AI 全自动写作
 
-> **核心原则**：AI 负责写和推，人只负责选题和点群发。
+> 输入选题 → AI 搜素材 → AI 写正文 → AI 生成标题 → AI 排版 → 一键推送微信草稿箱
+
+<img src="assets/logo.png" width="200" alt="公众号 AI 全自动写作">
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://python.org)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?logo=openai&logoColor=white)](https://openai.com)
+[![WeChat](https://img.shields.io/badge/WeChat-公众号-07C160?logo=wechat&logoColor=white)](https://mp.weixin.qq.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+</div>
 
 ## 一句话流程
 
